@@ -1,0 +1,30 @@
+.cardRow .tag {
+  padding: 24px 40px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.cardRow .tag .avatar {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardRow .tag .avatar i {
+  font-size: 20px;
+  color: #fff;
+}
+.cardRow .tag1 {
+  background-color: #4f99c6;
+}
+.cardRow .tag2 {
+  background-color: #629b58;
+}
+.cardRow .tag3 {
+  background-color: #e59729;
+}
+.cardRow .tag4 {
+  background-color: #b74635;
+}
